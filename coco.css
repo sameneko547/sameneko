@@ -42,8 +42,8 @@ header>.MuiToolbar-gutters,
 }
 
 /* キャラアイコンを削除 */
-/*.MuiBadge-root {
-  display: none;
+.MuiBadge-root {
+  display: inline;
 }
 
 
@@ -51,7 +51,7 @@ header>.MuiToolbar-gutters,
 .sc-fIosxK {
   display: none;
 }
-*/
+
 /* サイズ調整 */
 .MuiTypography-body2 {
   font-size: 2rem;
