@@ -51,3 +51,9 @@ header>.MuiToolbar-gutters,
 .sc-fIosxK {
   display: none;
 }
+
+.MuiTypography-body2 {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
