@@ -42,10 +42,10 @@ header>.MuiToolbar-gutters,
 }
 
 /* キャラアイコンを削除 */
-/* .MuiBadge-root {
+/*.MuiBadge-root {
   display: none;
 }
- */
+*/
 
 /* 全て非表示にする */
 .sc-fIosxK {
@@ -59,11 +59,11 @@ header>.MuiToolbar-gutters,
 
 .sc-fIosxK>div>div>div,
 .sc-fIosxK>div>div>div>div:nth-child(2)>div {
-  height: 25px;
+  height: 48px;
 }
 
 .sc-fIosxK>div>div>div {
-  width: 92px;
+  width: 185px;
 }
 
 .MuiTypography-body2 {
