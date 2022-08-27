@@ -43,7 +43,7 @@ header>.MuiToolbar-gutters,
 
 /* キャラアイコンを削除 */
 .MuiBadge-root {
-  display: none;
+  display: inline;
 }
 
 /* 全て非表示にする */
