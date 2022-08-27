@@ -54,16 +54,16 @@ header>.MuiToolbar-gutters,
 
 /* サイズ調整 */
 .MuiTypography-body2 {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .sc-fIosxK>div>div>div,
 .sc-fIosxK>div>div>div>div:nth-child(2)>div {
-  height: 25px;
+  height: 45px;
 }
 
 .sc-fIosxK>div>div>div {
-  width: 150px;
+  width: 185px;
 }
 
 .MuiTypography-body2 {
