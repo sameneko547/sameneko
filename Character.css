@@ -52,6 +52,15 @@ header>.MuiToolbar-gutters,
   display: none;
 }
 
+.sc-fIosxK>div>div>div,
+.sc-fIosxK>div>div>div>div:nth-child(2)>div {
+  height: 45px;
+}
+
+.sc-fIosxK>div>div>div {
+  width: 185px;
+}
+
 .MuiTypography-body2 {
   display: flex;
   align-items: center;
