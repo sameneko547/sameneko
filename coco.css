@@ -44,8 +44,6 @@ header>.MuiToolbar-gutters,
 /* キャラアイコンを削除 */
 .MuiBadge-root {
   display: block;
-  height: 100px;
-  height: 100px;
 }
 
 
