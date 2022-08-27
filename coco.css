@@ -45,13 +45,13 @@ header>.MuiToolbar-gutters,
 /*.MuiBadge-root {
   display: none;
 }
-*/
+
 
 /* 全て非表示にする */
 .sc-fIosxK {
   display: none;
 }
-
+*/
 /* サイズ調整 */
 .MuiTypography-body2 {
   font-size: 2rem;
