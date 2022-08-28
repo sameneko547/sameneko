@@ -44,7 +44,7 @@ header>.MuiToolbar-gutters,
   position: absolute;
   top:  8px;
   left: 0px;
-  max-height: calc(100% - 80px);
+  max-height: calc(100% - 40px);
   overflow-y: auto;
 }
 
