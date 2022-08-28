@@ -51,7 +51,6 @@ header>.MuiToolbar-gutters,
 /* キャラアイコンを削除 */
 .MuiBadge-root {
 display: inline-flex;
-position: relative;
 }
 
 
