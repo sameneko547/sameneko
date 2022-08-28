@@ -52,8 +52,6 @@ header>.MuiToolbar-gutters,
 .MuiBadge-root {
 display: inline-flex;
 position: relative;
-flex-shrink: 0;
-vertical-align: middle;
 }
 
 
