@@ -37,14 +37,8 @@ header>.MuiToolbar-gutters,
 **************************/
 /* 上下の調整 */
 .sc-jKTccl {
-  /*top: 8px;
+  top: 8px;
   padding:　0;
-*/
-  padding: 8px;
-  position: absolute;
-  top:  8px;
-  left: 0px;
-  overflow-y: auto;
 }
 
 /* キャラアイコンを削除 */
