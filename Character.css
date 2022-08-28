@@ -46,14 +46,6 @@ header>.MuiToolbar-gutters,
 display: inline;
 }
 
-/ *番号？ */
-.jAMijN .MuiBadge-badge {
-  top: 10px;
-  right: 10px;
-  background: rgb(92, 221, 153) none repeat scroll 0% 0%;
-  color: rgb(66, 66, 66);
-}
-
 /* 全て非表示にする */
 .sc-fIosxK {
   display: none;
