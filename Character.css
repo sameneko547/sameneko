@@ -41,11 +41,11 @@ header>.MuiToolbar-gutters,
   padding:　0;
 */
   padding: 8px;
-position: absolute;
-top: 64px;
-left: 0px;
-max-height: calc(100% - 80px);
-overflow-y: auto;
+  position: absolute;
+  top:  8px;
+  left: 0px;
+  max-height: calc(100% - 80px);
+  overflow-y: auto;
 }
 
 /* キャラアイコンを削除 */
