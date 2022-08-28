@@ -44,7 +44,6 @@ header>.MuiToolbar-gutters,
   position: absolute;
   top:  8px;
   left: 0px;
-  max-height: calc(100% - 40px);
   overflow-y: auto;
 }
 
@@ -52,7 +51,6 @@ header>.MuiToolbar-gutters,
 .MuiBadge-root {
 display: inline;
 }
-
 
 /* 全て非表示にする */
 .sc-fIosxK {
